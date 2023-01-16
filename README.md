@@ -1,5 +1,7 @@
 # SoBoku
 
-## How to install
+## How to Install
 
 ## How to Play
+
+## Building Process
