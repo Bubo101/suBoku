@@ -2,6 +2,6 @@
 
 ## How to Install
 
-## How to Play
+## How to Play Sudoku!
 
 ## Building Process
