@@ -75,6 +75,7 @@ function isValidSolution(grid) {
     }
     return SudokuUtil.isValidPuzzle(grid);
 }
+//checking if all boxes are filled before checking isValidPuzzle
 
 function solve(grid) {
     for (let row = 0; row < 9; row++) {
